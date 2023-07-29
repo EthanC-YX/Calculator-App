@@ -248,7 +248,7 @@ struct ContentView: View {
                                 Rectangle()
                                     .foregroundColor(Color.gray)
                                     .frame(width: 170, height: 80)
-                                    .cornerRadius(30)
+                                    .cornerRadius(60)
                                 Text("0")
                                     .font(.largeTitle)
                                     .foregroundColor(.white)
